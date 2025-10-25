@@ -15,7 +15,7 @@ We have implemented a scalable content addressable network (CAN) capable of orga
  [**Distributed Big Data Computing Lab**](https://sites.google.com/site/jaehwanlee/home)
  - Professor : Jaehwan Lee - Advisor
  - Master's research student : Sookwang Lee - CAN code configuration
- - undergraduate research student : Yuchan Lee -  CAN code configuration, CAN node verification code (eureka)
+ - Undergraduate research student : Yuchan Lee -  CAN code configuration, CAN node verification code (eureka)
 
 ## Development environment
 - `Python 3.7.4`
